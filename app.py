@@ -6,8 +6,4 @@ autorefresh
 st.markdown("Boas vindas ao")
 st.title('data.(Anpocs)')
 st.text('protótipo 1.0')
-
-
-
-
 st.text1('ola, ola, ola')
