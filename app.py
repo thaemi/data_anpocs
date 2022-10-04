@@ -10,4 +10,4 @@ st.text('protótipo 1.0')
 
 
 
-st.text('ola, ola, ola')
+st.text1('ola, ola, ola')
