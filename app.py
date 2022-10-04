@@ -5,7 +5,6 @@ import plotly.express as px
 from selenium import webdriver 
 import time 
 
-x
 
 refreshrate=10
 st.markdown("Boas vindas ao")
