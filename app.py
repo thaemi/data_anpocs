@@ -8,3 +8,5 @@ st.title('data.(Anpocs)!')
 st.text('protótipo 1.0')
 st.text('ola, ola, ola')
 st.write('fale conosco bla bla bla')
+
+trabalhos = pd.read_excel('trabalhos.py.xlsx')
