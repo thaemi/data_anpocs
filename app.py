@@ -21,6 +21,6 @@ selecao = st.sidebar.selectbox('', lista_dos_trabalhos)
 
 gol, gol2 = st.beta_columns([5,20])
 with gol
-  st.image('1.png')
+  st.image('C:\Users\Thales\Desktop\imagens.projeto.py/1')
   with gol2:
     st.info('Logo oficial do data.(Anpocs)')
