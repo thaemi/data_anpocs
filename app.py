@@ -20,3 +20,6 @@ lista_dos_trabalhos.sort()
 
 selecao = st.sidebar.selectbox('', lista_dos_trabalhos)
 
+if selecao == "if selecao == 'Gênero, Trabalho e família':
+  st.header("Esses são os trabalhos do tema 'Gênero, Trabalho e família' ")
+  st.subheader('são', , count.lista_dos_trabalhos, 'trabalhos')
