@@ -8,7 +8,7 @@ st.image("projeto.py/1.png")
 st.title('data.(Anpocs)!')
 st.text('protótipo 1.0')
 st.text('ola, ola, ola')
-st.write('fale conosco bla bla bla')
+st.write('fale conosco: redes sociais')
 
 trabalhos = pd.read_excel('trabalhos.py.xlsx')
 
