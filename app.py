@@ -19,7 +19,4 @@ lista_dos_trabalhos.sort()
 
 selecao = st.sidebar.selectbox('', lista_dos_trabalhos)
 
-foto = Image.open ('logo.logo.1')
-st.image(foto,
-         caption='logo.logo.1',
-         use_column_width=False)
+st.image('logo.logo.1'
