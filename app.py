@@ -19,4 +19,4 @@ lista_dos_trabalhos.sort()
 
 selecao = st.sidebar.selectbox('', lista_dos_trabalhos)
 
-st.image('logo.logo.1'
+st.image('logo.logo.1')
