@@ -23,5 +23,5 @@ selecao = st.sidebar.selectbox('', lista_dos_trabalhos)
 if selecao == 'Gênero, Trabalho e família':
   st.header("Esses são os trabalhos do tema 'Gênero, Trabalho e família' ")
   
-if selecao == 'Democracia e desigualdades':
-  st.header("Esses são os trabalhos do tema 'Democracia e desigualdades' ")
+if selecao == 'O Rural no Brasil contemporâneo: questões teóricas e novos temas de pesquisa' :
+  st.header("Esses são os trabalhos do tema 'O Rural no Brasil contemporâneo: questões teóricas e novos temas de pesquisa' ")
