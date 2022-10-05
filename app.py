@@ -35,6 +35,8 @@ if selecao == 'As classes sociais no Brasil contemporâneo':
 if selecao == 'Democracia e desigualdades':
   st.header("Esses são os trabalhos do tema 'Democracia e desigualdades' ")
 
+if selecao == 'Políticas públicas':
+  st.header("Essess são os trabalhos do tema 'Políticas públicas' ")
   
             
             
