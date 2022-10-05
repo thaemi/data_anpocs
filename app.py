@@ -33,8 +33,8 @@ if selecao == 'As classes sociais no Brasil contemporâneo':
   st.header("Esses são os trabalhos do tema 'As classes sociais no Brasil contemporâneo' ")
 
 
-if selecao == 'Controles Democráticos: Participação Política: atores,instituições, dinâmicas e resultados':
-  st.header("Esses são os trabalhos do tema 'Controles Democráticos: Participação Política: atores,instituições, dinâmicas e resultados' ")
+if selecao == 'Democracia e desigualdades - 2014':
+  st.header("Esses são os trabalhos do tema 'Democracia e desigualdades - 2014' ")
 
   
             
