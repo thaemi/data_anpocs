@@ -32,8 +32,8 @@ if selecao == 'Controles Democráticos: Instituições e participação na democ
 if selecao == 'As classes sociais no Brasil contemporâneo':
   st.header("Esses são os trabalhos do tema 'As classes sociais no Brasil contemporâneo' ")
 
-if selecao == 'Controles Democráticos: Participação Política:atores, instituições, dinâmicas e resultados':
-    st.header("Esses são os trabalhos do tema 'Controles Democráticos: Participação Política:atores, instituições, dinâmicas e resultados' ")
+if selecao == 'Controles Democráticos: Participação Política: atores,instituições, dinâmicas e resultados':
+    st.header("Esses são os trabalhos do tema 'Controles Democráticos: Participação Política: atores,instituições, dinâmicas e resultados' ")
 
             
             
