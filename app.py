@@ -26,5 +26,5 @@ if selecao == 'Gênero, Trabalho e família':
 if selecao == 'O Rural no Brasil contemporâneo: questões teóricas e novos temas de pesquisa' :
   st.header("Esses são os trabalhos do tema 'O Rural no Brasil contemporâneo: questões teóricas e novos temas de pesquisa' ")
 
-  if selecao == 'Democracia e Desigualdades':
+  if selecao == 'Democracia e desigualdades':
     st.header("Esses são os trabalhos do tema 'Democracia e desigualdades' ")
