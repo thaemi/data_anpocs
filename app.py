@@ -16,3 +16,5 @@ lista_dos_trabalhos = trabalhos['Autores/as dos trabalhos; Instituição; Ano'].
 lista_dos_trabalhos = np.append(lista_dos_trabalhos, '')
 
 lista_dos_trabalhos.sort()
+
+selecao = st.sidebar.selectbox('', lista_dos_trabalhos)
