@@ -6,7 +6,9 @@ import plotly.express as px
 st.markdown("Boas vindas ao")
 st.title('data.(Anpocs)!')
 st.image("projeto.py/1.png")
+
 st.write('Acima, vocês vêem o nosso logotipo!')
+
 st.text('protótipo 1.0')
 st.text('ola, ola, ola')
 st.write('fale conosco bla bla bla')
