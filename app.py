@@ -3,12 +3,15 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 
+st.text(" Plataforma teste para projeto 'data.(Anpocs)' ")
+st.text('protótipo 0.0.0.1')
+
 st.markdown("Boas vindas ao")
 st.image("projeto.py/1.png")
-st.title('data.(Anpocs)!')
-st.text('protótipo 1.0')
-st.text('ola, ola, ola')
-st.write('fale conosco: redes sociais')
+st.title(' Trabalhos armazenados pelo data.(Anpocs)')
+
+
+
 
 trabalhos = pd.read_excel('trabalhos.py.xlsx')
 
@@ -39,7 +42,7 @@ if selecao == 'Políticas públicas':
   st.header("Essess são os trabalhos do tema 'Políticas públicas' ")
   
             
-            
+st.write('fale conosco: redes sociais')
             
             
             
