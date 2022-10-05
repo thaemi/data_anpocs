@@ -19,4 +19,4 @@ lista_dos_trabalhos.sort()
 
 selecao = st.sidebar.selectbox('', lista_dos_trabalhos)
 
-st.image('1.png')
+st.image("projeto.py/1.png'1.png")
