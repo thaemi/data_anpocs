@@ -4,7 +4,7 @@ import numpy as np
 import plotly.express as px
 
 st.markdown("Boas vindas ao")
-st.image("projeto.py/1.png")
+st.image("projeto.py/1.png")([100,200])
 st.title('data.(Anpocs)!')
 st.text('protótipo 1.0')
 st.text('ola, ola, ola')
