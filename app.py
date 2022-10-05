@@ -9,7 +9,7 @@ st.image("projeto.py/1.png")
 
 st.title('data.(Anpocs)!')
 
-st.write2('Acima, vocês vêem o nosso logotipo!')
+st.write('Acima, vocês vêem o nosso logotipo!')
 
 st.text('protótipo 1.0')
 st.text('ola, ola, ola')
