@@ -27,4 +27,19 @@ if selecao == 'O Rural no Brasil contemporâneo: questões teóricas e novos tem
   st.header("Esses são os trabalhos do tema 'O Rural no Brasil contemporâneo: questões teóricas e novos temas de pesquisa' ")
  
 if selecao == 'Controles Democráticos: Instituições e participação na democracia contemporânea':
-  st.header("Esses são os trabalhos")
+  st.header("Esses são os trabalhos do tema 'Controles Democráticos: Instituições e participação na democracia contemporânea' ")
+
+if selecao == 'As classes sociais no Brasil contemporâneo':
+  st.header("Esses são os trabalhos do tema 'As classes sociais no Brasil contemporâneo')
+
+if selecao == 'Controles Democráticos: Participação Política: atores, instituições, dinâmicas e resultados':
+  st.header("Esses são os trabalhos do tema 'Controles Democráticos: Participação Política: atores, instituições, dinâmicas e resultados')
+
+            
+            
+            
+            
+            
+            
+            
+            
