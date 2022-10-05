@@ -11,7 +11,7 @@ st.write('fale conosco bla bla bla')
 
 trabalhos = pd.read_excel('trabalhos.py.xlsx')
 
-lista_dos_trabalhos = trabalhos['Autores/as dos trabalhos; Instituição; Ano'].unique()
+lista_dos_trabalhos = trabalhos['Tema do GT'].unique()
 
 lista_dos_trabalhos = np.append(lista_dos_trabalhos, '')
 
