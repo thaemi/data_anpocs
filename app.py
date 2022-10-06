@@ -6,7 +6,7 @@ import plotly.express as px
 st.text(" Plataforma Teste para projeto 'data.(Anpocs).' ")
 st.text('protótipo 0.0.0.1')
 
-st.markdown("Boas vindas ao")
+st.title("Boas vindas ao")
 st.image("projeto.py/1.png")
 st.title('Trabalhos armazenados pelo data.(Anpocs).')
 
@@ -47,7 +47,8 @@ if selecao == 'Políticas públicas':
   st.header("Essess são os trabalhos do tema 'Políticas públicas' ")
   
             
-st.write('fale conosco: redes sociais')
+st.write('fale conosco:')
+st.image("projeto.py/logo.twitter.png")
             
             
             
