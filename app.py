@@ -8,10 +8,7 @@ st.text('protótipo 0.0.0.1')
 
 st.markdown("Boas vindas ao")
 st.image("projeto.py/1.png")
-st.title('Trabalhos armazenados pelo data.(Anpocs)')
-
-
-
+st.title('Trabalhos armazenados pelo data.(Anpocs).')
 
 trabalhos = pd.read_excel('trabalhos.py.xlsx')
 
@@ -26,12 +23,13 @@ selecao = st.sidebar.selectbox('', lista_dos_trabalhos)
 if selecao == 'Gênero, Trabalho e família':
   st.header("Esses são os trabalhos do tema 'Gênero, Trabalho e família' ")
   st.markdown("As desigualdades nas narrativas de homens e mulheres no ABC paulista: gênero, família e trabalho")
+  st.text('http://anpocs.org/index.php/encontros/papers/41-encontro-anual-da-anpocs/gt-30/gt13-17')
+  
   st.markdown("Antigos habitus, novos direitos: a persistente desigualdade no trabalho doméstico")
+  
   st.markdown("Trabalho e família no campo da tecnologia da informação: as desigualdades persistem?")
+  
 
-  
-  
-  
 if selecao == 'O Rural no Brasil contemporâneo: questões teóricas e novos temas de pesquisa' :
   st.header("Esses são os trabalhos do tema 'O Rural no Brasil contemporâneo: questões teóricas e novos temas de pesquisa' ")
  
