@@ -38,7 +38,7 @@ if selecao == 'Controles Democráticos: Instituições e participação na democ
   
   st.markdown("Instituições Participativas, Desigualdades Sociais e Democracia")
   st.write("[link] (https://www.anpocs.com/index.php/papers-40-encontro-3/gt-31/gt07-16/11164-instituicoes-participativas-desigualdades-sociais-e-democracia/file")
-  st.mardown("Controles Democráticos: Instituições e participação na democracia contemporânea")
+  st.markdown("Controles Democráticos: Instituições e participação na democracia contemporânea")
   st.write("[link] (https://anpocs.com/index.php/papers-38-encontro/gt-1/gt08-1/8889-desigualdade-na-ampliacao-das-inovacoes-participativas-caracteristicas-dos-municipios-com-orcamentos-participativos-no-brasil/file")
 
 if selecao == 'As classes sociais no Brasil contemporâneo':
