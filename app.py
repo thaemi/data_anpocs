@@ -8,7 +8,7 @@ st.text('protótipo 0.0.0.1')
 
 st.title("Boas vindas ao")
 st.image("projeto.py/1.png", width=200)
-st.write("O data.(Anpocs) é um projeto que visa o armazenamento dos trabalhos apresentados nos Encontros Anuais da Anpocs(Associação Nacional de Pós-Graduação em Ciências Sociais por eixos temáticos organizando-os e facilitando o amplo acesso ao conhecimento produzido e apresentado nas edições dos Encontros anteriores")
+st.write("O data.(Anpocs) é um projeto que visa o armazenamento dos trabalhos apresentados nos  Encontros Anuais da Anpocs(Associação Nacional de Pós-Graduação em Ciências Sociais por eixos temáticos organizando-os e facilitando o amplo acesso ao conhecimento produzido e apresentado nas edições dos Encontros anteriores")
 st.title('Trabalhos armazenados pelo data.(Anpocs)')
 
 trabalhos = pd.read_excel('trabalhos.py.xlsx')
