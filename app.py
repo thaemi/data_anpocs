@@ -49,9 +49,9 @@ if selecao == 'Políticas públicas':
   
             
 st.write('fale conosco:')
-st.image("projeto.py/logo.twitter.png", width=60)
+st.image("projeto.py/logo.twitter.png", width=50)
 st.image("projeto.py/logo.instagram.png", width=50)
-st.image("projeto.py/logo.email.jpg", width=60)
+st.image("projeto.py/logo.email.jpg", width=50)
             
             
             
