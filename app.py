@@ -6,8 +6,7 @@ import plotly.express as px
 st.text(" Plataforma Teste para projeto 'data.(Anpocs).' ")
 st.text('protótipo 0.0.0.1')
 
-st.markdown("Boas vindas ao")
-st.image("projeto.py/data.png")
+st.markdown("Boas vindas ao") st.image("projeto.py/data.png")
 st.title('Trabalhos armazenados pelo data.(Anpocs).')
 
 trabalhos = pd.read_excel('trabalhos.py.xlsx')
