@@ -24,7 +24,7 @@ if selecao == 'Gênero, Trabalho e família':
   st.header("Esses são os trabalhos do tema 'Gênero, Trabalho e família' ")
   
   st.markdown("As desigualdades nas narrativas de homens e mulheres no ABC paulista: gênero, família e trabalho")
-  st.text(http://anpocs.org/index.php/encontros/papers/41-encontro-anual-da-anpocs/gt-30/gt13-17)
+  st.text('http://anpocs.org/index.php/encontros/papers/41-encontro-anual-da-anpocs/gt-30/gt13-17')
   
   st.markdown("Antigos habitus, novos direitos: a persistente desigualdade no trabalho doméstico")
   
