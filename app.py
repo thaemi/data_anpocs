@@ -8,8 +8,8 @@ st.text('protótipo 0.0.0.1')
 
 st.title("Boas vindas ao")
 st.image("projeto.py/1.png", width=200)
-st.title('Trabalhos armazenados pelo data.(Anpocs).')
-
+st.title('Trabalhos armazenados pelo')
+st.title('data.(Anpocs)')
 trabalhos = pd.read_excel('trabalhos.py.xlsx')
 
 lista_dos_trabalhos = trabalhos['Tema do GT'].unique()
