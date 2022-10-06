@@ -3,12 +3,12 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 
-st.text(" Plataforma Teste para projeto 'data.(Anpocs)' ")
+st.text(" Plataforma Teste para projeto 'data.(Anpocs).' ")
 st.text('protótipo 0.0.0.1')
 
 st.markdown("Boas vindas ao")
 st.image("projeto.py/1.png")
-st.title(' Trabalhos armazenados pelo data.(Anpocs)')
+st.title('Trabalhos armazenados pelo data.(Anpocs)')
 
 
 
