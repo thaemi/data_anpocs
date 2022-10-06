@@ -25,6 +25,10 @@ selecao = st.sidebar.selectbox('', lista_dos_trabalhos)
 
 if selecao == 'Gênero, Trabalho e família':
   st.header("Esses são os trabalhos do tema 'Gênero, Trabalho e família' ")
+  st.markdown("As desigualdades nas narrativas de homens e mulheres no ABC paulista: gênero, família e trabalho")
+  st.markdown("Antigos habitus, novos direitos: a persistente desigualdade no trabalho doméstico")
+  st.markdown("Trabalho e família no campo da tecnologia da informação: as desigualdades persistem?")
+
   
   
   
