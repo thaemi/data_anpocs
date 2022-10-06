@@ -4,7 +4,7 @@ import numpy as np
 import plotly.express as px
 
 st.text(" Plataforma Teste para projeto 'data.(Anpocs).' ")
-st.text('protótipo 0.0.0.1')
+st.text('v. 0.0.0.5')
 
 st.title("Boas vindas ao")
 st.image("projeto.py/1.png", width=200)
